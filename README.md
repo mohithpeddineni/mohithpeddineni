@@ -87,7 +87,7 @@ Implemented a real-time drowsiness detection and alerting system using OpenCV, d
 
 ## 📫 Connect With Me
 
-- LinkedIn: www.linkedin.com/in/mohith-peddineni
+- LinkedIn: www.linkedin.com/in/mohith-p-51a513408
 - Email: mohithpeddineni1703@gmail.com
 
 ---
