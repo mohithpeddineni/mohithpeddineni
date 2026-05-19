@@ -1,95 +1,102 @@
-## Hi there 👋
+# 👋 Hi there, I'm Mohith Peddineni!
 
-# Hi, I'm Mohith 👋
-
-AI/ML Engineer passionate about building intelligent and scalable AI systems using Generative AI, Machine Learning, Deep Learning, and MLOps technologies.
-
-Currently pursuing a Master’s in Computer Science at Virginia Commonwealth University and actively seeking internship and full-time opportunities in AI/ML Engineering, Generative AI, and Applied Machine Learning.
-
----
-
-## 🚀 About Me
-
-- 🔭 Building AI-powered applications using Python, FastAPI, LangChain, PyTorch, MLflow, and Docker
-- 🤖 Interested in Generative AI, Agentic AI, Multi-Agent Systems, and LLM Applications
-- ⚡ Experienced with FastAPI, LangChain, LangGraph, MLOps, and AI workflow automation
-- 📚 Exploring RAG systems, AI Agents, and production-ready ML systems
-- 🌱 Continuously learning cloud technologies and scalable AI infrastructure
-
----
-
-## 🛠️ Tech Stack
-
-### Languages & Databases
-<p>
-  <img src="https://skillicons.dev/icons?i=python,mysql,postgresql,redis" />
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=7AA2F7&center=true&vCenter=true&width=650&lines=AI%2FML+Engineer%2C+Generative+AI+Builder;Agentic+AI+%26+RAG+System+Developer;MSCS+Student+2025;Building+Scalable+AI+Applications" />
 </p>
 
-### AI/ML & Deep Learning
-<p>
-  <img src="https://skillicons.dev/icons?i=pytorch" />
-  <img src="https://img.shields.io/badge/Machine%20Learning-102230?style=for-the-badge&logo=tensorflow&logoColor=orange" />
-  <img src="https://img.shields.io/badge/Deep%20Learning-0A192F?style=for-the-badge&logo=pytorch&logoColor=red" />
-  <img src="https://img.shields.io/badge/Transformers-FF6F00?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/NLP-4B0082?style=for-the-badge" />
-</p>
-
-### Generative AI & LLMs
-<p>
-  <img src="https://img.shields.io/badge/LangChain-121212?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/LangGraph-2E8B57?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/LLMs-000000?style=for-the-badge&logo=openai&logoColor=white" />
-  <img src="https://img.shields.io/badge/Agentic%20AI-6A0DAD?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Multi--Agent%20Systems-1E90FF?style=for-the-badge" />
-</p>
-
-### Backend & MLOps
-<p>
-  <img src="https://skillicons.dev/icons?i=fastapi,docker,git,githubactions" />
-  <img src="https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/MLOps-0A66C2?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/CI/CD-222222?style=for-the-badge" />
+<p align="right">
+  <img src="https://komarev.com/ghpvc/?username=mohithpeddineni&label=Profile%20Views&color=7AA2F7&style=flat" />
 </p>
 
 ---
 
-## 📌 Featured Projects
+### 🚀 About Me
 
-### 📈 End-to-End Stock Market Forecasting System
-Built a production-ready forecasting system using ARIMA, XGBoost, and LSTM models with FastAPI deployment, MLflow experiment tracking, and Dockerized inference.
+I am an **AI/ML Engineer** and **Generative AI enthusiast** (MSCS ’25) focused on building scalable intelligent systems powered by LLMs, Agentic AI, and production-grade machine learning pipelines.
 
-### 🤖 AI-Driven Recruitment Portal
-Developed an AI-powered recruitment platform using LangChain and Google Gemini Pro for resume analysis, ATS matching, and workflow automation.
+My core expertise lies in designing and deploying **RAG systems**, **multi-agent workflows**, and **AI-powered applications** using modern ML and backend technologies.
 
-### 📊 Customer Churn Prediction System
-Built a supervised ML pipeline using XGBoost, SHAP, and FastAPI to predict customer churn and explain model decisions.
-
-### 😴 Driver Drowsiness Detection System
-Implemented a real-time drowsiness detection and alerting system using OpenCV, dlib, and ESP32 communication.
+- 🔭 **Current Focus:** Seeking Internship & Full-Time roles in AI/ML, GenAI, and MLOps Engineering  
+- 🎓 **Education:** M.S. in Computer Science, Virginia Commonwealth University  
+- ⚡ **Interest Areas:** Agentic AI, RAG Systems, LLM Applications, Production ML  
+- 🧠 **Goal:** Build real-world AI systems that are scalable, reliable, and impactful  
 
 ---
 
-## 🏆 Achievements
+### 🛠️ Tech Stack & Tools
 
-- 🥇 Winner — BUIDL for WEB3 Hackathon (Router Protocol Track)
-- 🏅 Finalist — Smart India Hackathon
-- 🎤 Organized TEDx GRIET Season 5
-- 📄 Published research papers in AI/ML domains
-
----
-
-## 📜 Certifications
-
-- Oracle Cloud Infrastructure 2025 Certified Generative AI Professional
-- AWS Academy Cloud Foundations
-
----
-
-## 📫 Connect With Me
-
-- LinkedIn: www.linkedin.com/in/mohith-p-51a513408
-- Email: mohithpeddineni1703@gmail.com
+| Category | Tools & Technologies |
+| :--- | :--- |
+| **Languages** | Python, SQL |
+| **Machine Learning** | Scikit-learn, XGBoost, Feature Engineering, Model Evaluation |
+| **Deep Learning** | PyTorch, CNN, LSTM/GRU, Transformers |
+| **Generative AI** | LangChain, LangGraph, LLM Integration, Agentic AI, Multi-Agent Systems |
+| **MLOps** | MLflow, Docker, CI/CD, Model Monitoring, Data Drift Detection |
+| **Backend** | FastAPI, REST APIs |
+| **Databases** | PostgreSQL, MySQL, Redis, Pinecone, ChromaDB |
+| **Tools** | Git, GitHub Actions |
 
 ---
 
-⭐ Always interested in collaborating on AI, Generative AI, and Machine Learning projects.
+### 🌟 Featured Projects
+
+#### 📈 Stock Market Forecasting System
+*Time-series forecasting with ML + Deep Learning*
+- **Tech:** PyTorch, XGBoost, ARIMA, FastAPI, MLflow, Docker  
+- Built predictive system using technical indicators (RSI, MACD, volatility)  
+- Deployed REST API for real-time forecasting  
+- Implemented model tracking + drift detection  
+
+---
+
+#### 🤖 AI-Driven Recruitment Portal
+*Agentic AI system for resume intelligence*
+- **Tech:** LangChain, Google Gemini, FastAPI, PostgreSQL  
+- Built AI resume screening and job matching system  
+- Automated ATS scoring and candidate evaluation  
+- Integrated workflow automation for HR processes  
+
+---
+
+#### 📊 Customer Churn Prediction System
+*Explainable ML system for business analytics*
+- **Tech:** XGBoost, SHAP, Scikit-learn, FastAPI  
+- Built supervised ML pipeline for churn prediction  
+- Added explainability using SHAP  
+- Deployed prediction API  
+
+---
+
+#### 😴 Driver Drowsiness Detection System
+*Real-time computer vision safety system*
+- **Tech:** OpenCV, dlib, Python  
+- Detected eye movement, head posture, and fatigue signals  
+- Triggered real-time alerts using embedded communication  
+
+---
+
+### 🏅 Certifications & Achievements
+
+- Oracle Cloud Infrastructure 2025 Certified Generative AI Professional  
+- AWS Academy Cloud Foundations  
+- Smart India Hackathon Finalist  
+- Published research in AI/ML domains  
+- Winner – Web3 Hackathon (Decentralized Identity System)  
+
+---
+
+### 🤝 Connect With Me
+
+<p align="center">
+<a href="mailto:mohithpeddineni1703@gmail.com">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+<a href="https://www.linkedin.com/in/mohith-peddineni">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+</p>
+
+---
+
+> **Looking for opportunities?** I’m actively seeking Internship and Full-Time roles in AI/ML, Generative AI, Agentic AI, and MLOps engineering.
